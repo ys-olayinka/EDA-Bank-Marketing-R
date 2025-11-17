@@ -1,6 +1,7 @@
 # 📊 EDA with R – Bank Marketing Dataset
 
 ## 🧭 Executive Summary
+![Dashboard Preview](job.png)
 
 This project explores a Portuguese bank's direct marketing campaign dataset using R. The goal is to uncover insights into customer behavior and campaign success factors using exploratory data analysis (EDA) techniques.
 
